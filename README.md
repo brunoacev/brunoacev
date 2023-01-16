@@ -18,13 +18,6 @@
 ## Contact
 
 
-<a href="https://linkedin.com/in/bruno-azevedo-02736bb2" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-brunoazevedo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/b.acev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-brunoazevedo-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-
 
 <!--
 **brunoacev/brunoacev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
