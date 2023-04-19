@@ -4,7 +4,7 @@
 
 - 📚 Software Engineering Student at UniFCV
 
-- 📚 Fullstack Javascript Student at Kenzie Academy Brazil
+- 📚 Fullstack Javascript Develop
 
 - 💬 Let's talk about **JavaScript, HTML, CSS, Next.JS, React.JS, Node.JS, TailwindCSS**
 
