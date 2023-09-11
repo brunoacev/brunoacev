@@ -9,8 +9,6 @@
 - 💬 Let's talk about **JavaScript, HTML, CSS, Next.JS, React.JS, Node.JS, TailwindCSS**
 
 
-- 👨‍💻 More at [brunoacev.dev](https://portfolio-brunoacev-five.vercel.app/)
-
 <br><br>
 
 
