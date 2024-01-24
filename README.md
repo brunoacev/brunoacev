@@ -6,7 +6,7 @@
 
 - 📚 Fullstack Javascript Develop
 
-- 💬 Let's talk about **JavaScript, HTML, CSS, Next.JS, React.JS, Node.JS, TailwindCSS**
+- 💬 Let's talk about **JavaScript, Go, Rust, Next.JS, React.JS, Node.JS, TailwindCSS**
 
 
 <br><br>
