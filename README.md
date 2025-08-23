@@ -1,12 +1,12 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Azevedo</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,Olá, Meu nome é Bruno Azevedo.</h1>
 
-- 🔥 Web Developer & Programming enthusiast, focused on NextJS 💙
+- 🔥 Desenvolvedor FullStack, disponivel para atuar com web, mobile e desktop. 💙
 
-- 📚 Computer Engineering Student at Universidade Mauricio de Nassau
+- 📚 Graduado em Ciência da Computação, Atualmente cursando Engenharia da Computação com áreas de interesse como Mecanica, Eletrica e Computação.
 
-- 📚 Fullstack Javascript Develop
+- 📚 Interesses em desenvolvimentos de API's e suas complexidades, aperfeiçoamento em estilização de paginas e aprendendo sobre outras linguagens de programação e seus comportamentos.
 
-- 💬 Let's talk about **JavaScript, Go, Rust, Next.JS, React.JS, Node.JS, TailwindCSS**
+- 💬 Vamos falar sobre **JavaScript, Go, Rust, Next.JS, React.JS, Node.JS, TailwindCSS**
 
 
 <br><br>
