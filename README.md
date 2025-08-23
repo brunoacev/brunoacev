@@ -2,7 +2,7 @@
 
 - 🔥 Web Developer & Programming enthusiast, focused on NextJS 💙
 
-- 📚 Software Engineering Student at UNIFANOR Wyden
+- 📚 Computer Engineering Student at Universidade Mauricio de Nassau
 
 - 📚 Fullstack Javascript Develop
 
