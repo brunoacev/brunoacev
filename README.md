@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor FullStack, disponivel para atuar com web, mobile e desktop. 💙
 
-- 📚 Graduado em Ciência da Computação, Atualmente cursando Engenharia da Computação com áreas de interesse como Mecanica, Eletrica e Computação.
+- 📚 Graduando em Ciência da Computação, com áreas de interesse como Mecanica, Eletrica e Computação.
 
 - 📚 Interesses em desenvolvimentos de API's e suas complexidades, aperfeiçoamento em estilização de paginas e aprendendo sobre outras linguagens de programação e seus comportamentos.
 
