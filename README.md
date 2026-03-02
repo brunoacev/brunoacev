@@ -1,6 +1,6 @@
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Meu nome é Bruno Azevedo.</h1>
 
-- 🔥 Desenvolvedor FullStack, disponivel para atuar com web, mobile e desktop. 💙
+- 🔥 Desenvolvedor FullStack, disponivel para atuar com web, mobile e desktop. 
 
 - 📚 Graduando em Ciência da Computação, com áreas de interesse como Mecanica, Eletrica e Computação.
 
