@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor de software · Sistemas de gestão e integrações</strong><br>
-  Construindo minha trajetória para Forward Deployed Engineering
+  Construo soluções que aproximam tecnologia, operação e necessidades reais dos usuários.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://brunoacev-dev.vercel.app/">Portfólio</a>
+  <a href="https://brunoacev-dev.vercel.app/](https://www.brunoacev.com.br">Portfólio</a>
   &nbsp;·&nbsp;
   Fortaleza, Brasil
 </p>
@@ -21,9 +21,9 @@
 
 ### Sobre mim
 
-Sou desenvolvedor de software e graduando em Ciência da Computação. Desenvolvo aplicações web e desktop voltadas à gestão e à automação de processos, com interesse em APIs, integrações e sistemas empresariais.
+Sou desenvolvedor de software e graduando em Ciência da Computação. Desenvolvo aplicações web, desktop e mobile voltadas à gestão e à automação de processos, utilização de APIs, integrações e sistemas empresariais.
 
-Quero atuar como **Forward Deployed Engineer (FDE)**: trabalhar próximo de clientes e usuários, entender a operação e transformar necessidades em software útil. Estou direcionando meu desenvolvimento para participar de todo esse ciclo — da descoberta do problema à implementação, implantação e evolução da solução.
+Gosto de acompanhar de perto como o software funciona na prática e como afeta a rotina de quem o utiliza. Para mim, desenvolver uma solução também significa entender o contexto em que ela será usada, observar as necessidades dos usuários e evoluí-la a partir dessa experiência. Quero estar conectado à operação e às pessoas, construindo sistemas que façam diferença no dia a dia.
 
 ### Foco técnico
 
